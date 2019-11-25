@@ -7,4 +7,4 @@ QA Portal
 ◇  You can browse & search the questions posted and answer them if you could do.
 
 Check demo at : 
-http://askmvsr.com/
+http://askmvsr.epizy.com/
